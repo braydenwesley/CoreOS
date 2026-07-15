@@ -5,4 +5,4 @@ Plans to be an Operating System that will have polish like MacOS & Windows witho
 I plan to use the Linux Kernel
 
 # Dev
-Origjnal - Name : Brayden Wesley - Age : 16
+Original - Name : Brayden Wesley - Age : 16
